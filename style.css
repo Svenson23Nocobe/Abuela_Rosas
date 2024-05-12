@@ -172,3 +172,8 @@ body {
    #sombra_1{
      visibility:hidden;
    }
+
+   #Texto{
+        margin: 1%;        
+        font-size: 0,30cm;
+   }
